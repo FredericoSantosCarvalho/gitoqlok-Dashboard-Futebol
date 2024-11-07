@@ -1,0 +1,20 @@
+///$tab Includes
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/00.00 - Main.qvs);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/01.00 - Rotinas.inc);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/02.00 - EX Tabelas.inc);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/03.00 - TR Fato Futebol.inc);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/03.01 - TR Dim Artilheiro.inc);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/03.02 - TR Dim Caldendário.inc);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/03.03 - TR Dim Escalacoes.inc);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/04.00 - Load Tabelas.inc);
+$(Must_Include=lib://Futebol:G_DRIVE_SNUNES_BIX/1-0YSPTmpIN3Uj63ibK3ipTj5dxZwQLg9/04.01 - Variáveis.inc);
+
+// Teste alteracao
+
+TRACE ---- TESTE TESTE TESTE;
+
+// NOVA ALTERACAO NO BLOCO INCLUDES
+Trace --- ALTERACAO INCLUDES;
+
+
+Exit Script;
